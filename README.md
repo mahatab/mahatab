@@ -1,4 +1,3 @@
-```markdown
 # Hi, I am Mahatab 👋
 
 📍 **Sammamish, WA** | ⚡ **AI Maximalist** | 🚀 **M² Labs**
@@ -29,4 +28,3 @@
 ---
 
 📫 **mahatab@msn.com** · 🌐 **[m2labs.co](https://m2labs.co)**
-```
