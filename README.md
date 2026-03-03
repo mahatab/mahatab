@@ -1,5 +1,3 @@
-Here it is, copy and paste the whole thing:
-
 ```markdown
 # Hi, I am Mahatab 👋
 
