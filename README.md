@@ -1,6 +1,6 @@
 # Hi, I am Mahatab 👋
 
-📍 **Sammamish, WA** | ⚡ **AI Maximalist** | 🚀 **M² Labs**
+📍 **Seattle, WA** | ⚡ **AI Maximalist** | 🚀 **M² Labs**
 
 > Microsoft gave me 17+ years of scars and instincts. AI gave me wings. Let us ship something.
 
