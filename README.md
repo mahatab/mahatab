@@ -9,7 +9,7 @@
 - 🚀 **M² Labs** — AI-first technology studio. Software development meets AI audio production.
 - 📰 **[The Morning Dispatch](https://themorningdispatch.net)** — A 1970s-style daily newspaper made every morning by a newsroom of AI agents, with no human in the loop. Scouts, writers and an editor in chief who reads every proof. [Watch the newsroom](https://themorningdispatch.net/newsroom.html)
 - 📱 **BeenHere** — An iOS app (closed source)
-- 🤖 **AI Council** — Structured discussions between multiple AI models
+- 🤖 **[Synode](https://github.com/mahatab/synode-council-of-ai-agents)** — A macOS and Windows desktop app where several AI models debate your question as a council, and a master model delivers the final verdict. Follow up with any model by @mention.
 - ⚙️ Various automation experiments, agentic workflows, and tools I wish existed
 
 ## GitHub Activity
