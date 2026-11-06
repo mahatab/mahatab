@@ -19,7 +19,7 @@
 ## Connect
 
 [![X](assets/badge-x.svg)](https://x.com/mahatabur)
-[![LinkedIn](https://img.shields.io/badge/-Mahatab_Rashid-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahatab-rashid-2157804/)
+[![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/mahatab-rashid-2157804/)
 
 ## Recognition
 
