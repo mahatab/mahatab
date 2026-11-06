@@ -27,7 +27,7 @@
 - **Frost and Sullivan Excellence in Technology Award** — Developed SIP engine for BroadWorks Communicator softphone application
 - **Microsoft Award for Customer and Partner Experience** — Three-time recipient for excellence in enterprise support and customer advocacy
 
-<details>
+<details open>
 <summary>Random Facts</summary>
 
 - Started my career writing Telnet/SSH clients for Windows/PocketPC/Palm OS
