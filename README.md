@@ -4,15 +4,6 @@
 
 > Microsoft gave me 17+ years of scars and instincts. AI gave me wings. Let us ship something.
 
-## Background
-
-17+ years at Microsoft in program management and escalation engineering:
-
-- **Developer Division (CoreAI):**
-  - **Azure App Service (9+ years):** Senior Technical Program Manager and Senior Embedded Escalation Engineer
-  - **Quality, Reliability, and Security:** As a Senior Technical Program Manager, led these programs across the division
-- **Windows Media SDK:** Global escalation lead, the person who got the 3 AM call
-
 ## What I am building
 
 - 🚀 **M² Labs** — AI-first technology studio. Software development meets AI audio production.
@@ -40,7 +31,9 @@
 <summary>Random Facts</summary>
 
 - Started my career writing Telnet/SSH clients for Windows/PocketPC/Palm OS
+- Served as global escalation lead for **Windows Media SDK** — the person who got the 3 AM call
 - Mass-debugged Windows user and kernel memory dumps at 2 AM more times than I can count
+- Led Quality, Reliability, and Security programs across **Developer Division (CoreAI)** at Microsoft
 - Coffee-powered, greater Seattle-based
 
 </details>
