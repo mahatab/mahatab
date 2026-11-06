@@ -8,8 +8,9 @@
 
 17+ years at Microsoft in program management and escalation engineering:
 
-- **Developer Division (CoreAI):** As a Senior Technical Program Manager, led Quality, Reliability, and Security programs across the division
-- **Azure App Service (9+ years):** Senior Technical Program Manager and Senior Embedded Escalation Engineer
+- **Developer Division (CoreAI):**
+  - **Azure App Service (9+ years):** Senior Technical Program Manager and Senior Embedded Escalation Engineer
+  - **Quality, Reliability, and Security:** As a Senior Technical Program Manager, led these programs across the division
 - **Windows Media SDK:** Global escalation lead, the person who got the 3 AM call
 
 ## What I am building
