@@ -33,7 +33,7 @@
 - Started my career writing Telnet/SSH clients for Windows/PocketPC/Palm OS
 - Served as global escalation lead for **Windows Media SDK** — the person who got the 3 AM call
 - Mass-debugged Windows user and kernel memory dumps at 2 AM more times than I can count
-- Led Quality, Reliability, and Security programs across **Developer Division (CoreAI)** at Microsoft
+- As a Senior TPM, led Quality, Reliability, and Security programs across **Developer Division (CoreAI)** at Microsoft
 - Coffee-powered, greater Seattle-based
 
 </details>
