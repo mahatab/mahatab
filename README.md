@@ -31,10 +31,9 @@ Several AI models debate your question, and a master model delivers the final ve
 
 A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI editor in chief. Every mistake becomes a new rule in the editor's desk book, so the paper gets better each week. [Watch the newsroom](https://themorningdispatch.net/newsroom.html).
 
-<p>
-  <a href="https://themorningdispatch.net"><img src="assets/dispatch-paper.jpg" alt="The Morning Dispatch front page, laid out like a 1970s newspaper" width="49%" /></a>
-  <a href="https://themorningdispatch.net/newsroom.html"><img src="assets/dispatch-newsroom.jpg" alt="The Morning Dispatch newsroom, a floor plan showing the AI editor and reporters at their desks" width="49%" /></a>
-</p>
+<a href="https://themorningdispatch.net">
+  <img src="assets/dispatch-slides.svg" alt="The Morning Dispatch slideshow: the front page, laid out like a 1970s newspaper, and the newsroom where the AI editor and reporters work" width="600" />
+</a>
 
 ### Windows power tools, rebuilt for the Mac
 
@@ -43,7 +42,7 @@ After two decades on Windows, I missed a few things on macOS. So I built them.
 - <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/TCPViewMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="20" align="top" alt="" /> **[tcpview-macos](https://github.com/mahatab/tcpview-macos)** — Sysinternals TCPView for the Mac: live TCP and UDP connections, in native SwiftUI
 
 <a href="https://github.com/mahatab/tcpview-macos">
-  <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/tcpviewmac.png" alt="TCPView for macOS showing live network connections" width="600" />
+  <img src="assets/tcpview-frame.svg" alt="TCPView for macOS showing every live TCP and UDP connection, by process" width="600" />
 </a>
 
 - <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS
@@ -59,7 +58,7 @@ Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 - <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun/assets/run_icon.png" width="20" align="top" alt="" /> **[macrun](https://github.com/mahatab/macrun)** — the Win+R Run dialog as a menu bar app, with 105+ command aliases
 
 <a href="https://github.com/mahatab/macrun">
-  <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun.png" alt="MacRun, a Windows-style Run dialog on macOS" width="380" />
+  <img src="assets/macrun-frame.svg" alt="MacRun, a Windows-style Run dialog on macOS" width="600" />
 </a>
 
 - <img src="https://raw.githubusercontent.com/mahatab/wincmdbridge/main/images/cmdmap.png" height="20" align="top" alt="" /> **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab
