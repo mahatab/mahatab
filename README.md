@@ -31,6 +31,11 @@ Several AI models debate your question, and a master model delivers the final ve
 
 A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI editor in chief. Every mistake becomes a new rule in the editor's desk book, so the paper gets better each week. [Watch the newsroom](https://themorningdispatch.net/newsroom.html).
 
+<p>
+  <a href="https://themorningdispatch.net"><img src="assets/dispatch-paper.jpg" alt="The Morning Dispatch front page, laid out like a 1970s newspaper" width="49%" /></a>
+  <a href="https://themorningdispatch.net/newsroom.html"><img src="assets/dispatch-newsroom.jpg" alt="The Morning Dispatch newsroom, a floor plan showing the AI editor and reporters at their desks" width="49%" /></a>
+</p>
+
 ### Windows power tools, rebuilt for the Mac
 
 After two decades on Windows, I missed a few things on macOS. So I built them.
