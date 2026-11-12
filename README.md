@@ -32,7 +32,7 @@ Several AI models debate your question, and a master model delivers the final ve
 A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI editor in chief. Every mistake becomes a new rule in the editor's desk book, so the paper gets better each week. [Watch the newsroom](https://themorningdispatch.net/newsroom.html).
 
 <a href="https://themorningdispatch.net">
-  <img src="assets/dispatch-slides.svg" alt="The Morning Dispatch slideshow: the front page, laid out like a 1970s newspaper, and the newsroom where the AI editor and reporters work" width="600" />
+  <img src="assets/dispatch-slides.svg" alt="The Morning Dispatch slideshow: the front page, a two-page spread, the home delivery coupon, and the newsroom" width="600" />
 </a>
 
 ### Windows power tools, rebuilt for the Mac
