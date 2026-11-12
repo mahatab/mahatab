@@ -28,7 +28,7 @@ Several AI models debate your question, and a master model delivers the final ve
 </a>
 
 <a href="https://github.com/mahatab/synode-council-of-ai-agents">
-  <img src="assets/synode-slides.svg" alt="Synode screenshots: a council session ending in the final verdict, Direct Chat, local models through LM Studio, and the Telegram bot" width="100%" />
+  <img src="assets/synode-slides.svg" alt="Synode screenshots: council sessions ending in a final verdict, Direct Chat, model and advanced settings, local models through LM Studio, and the Telegram bot" width="100%" />
 </a>
 
 ### <img src="https://themorningdispatch.net/icons/apple-touch-icon.png" width="32" align="top" alt="" /> [The Morning Dispatch](https://themorningdispatch.net) — a daily paper with no humans in the newsroom
@@ -52,16 +52,20 @@ After two decades on Windows, I missed a few things on macOS. So I built them.
 
 - <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS
 
-<p>
-  <a href="https://github.com/mahatab/memorylens"><img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/memorylens1.png" alt="MemoryLens System Memory view, breaking down 16 GB of RAM by type" width="49%" /></a>
-  <a href="https://github.com/mahatab/memorylens"><img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/memorylens3.png" alt="MemoryLens Memory Timeline, a live stacked chart of memory composition" width="49%" /></a>
-</p>
+<a href="https://github.com/mahatab/memorylens">
+  <img src="assets/memorylens-slides.svg" alt="MemoryLens screenshots: system memory, virtual memory, timeline, process memory, mapped files, snapshot compare and memory flush" width="100%" />
+</a>
 
 ### Windows muscle memory on macOS
 
 Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 
 - <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun/assets/run_icon.png" width="20" align="top" alt="" /> **[macrun](https://github.com/mahatab/macrun)** — the Win+R Run dialog as a menu bar app, with 105+ command aliases
+
+<a href="https://github.com/mahatab/macrun">
+  <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun.png" alt="MacRun, a Windows-style Run dialog on macOS" width="380" />
+</a>
+
 - <img src="https://raw.githubusercontent.com/mahatab/wincmdbridge/main/images/cmdmap.png" height="20" align="top" alt="" /> **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab
 
 ### Also
