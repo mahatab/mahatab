@@ -27,6 +27,11 @@ Several AI models debate your question, and a master model delivers the final ve
   <img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/docs/images/pixel-art-flowchart.jpg" alt="How Synode works: you ask a question, a council of AI models discusses it, and a master model delivers the verdict" width="600" />
 </a>
 
+<p>
+  <a href="https://github.com/mahatab/synode-council-of-ai-agents"><img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/docs/images/screenshots/hero-3.png" alt="Synode council session ending in the master model's final verdict" width="49%" /></a>
+  <a href="https://github.com/mahatab/synode-council-of-ai-agents"><img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/docs/images/screenshots/direct-chat.png" alt="Synode Direct Chat, with a grid of models to pick from" width="49%" /></a>
+</p>
+
 ### <img src="https://themorningdispatch.net/icons/apple-touch-icon.png" width="32" align="top" alt="" /> [The Morning Dispatch](https://themorningdispatch.net) — a daily paper with no humans in the newsroom
 
 A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI editor in chief. Every mistake becomes a new rule in the editor's desk book, so the paper gets better each week. [Watch the newsroom](https://themorningdispatch.net/newsroom.html).
@@ -41,11 +46,17 @@ A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI
 After two decades on Windows, I missed a few things on macOS. So I built them.
 
 - <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/TCPViewMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="20" align="top" alt="" /> **[tcpview-macos](https://github.com/mahatab/tcpview-macos)** — Sysinternals TCPView for the Mac: live TCP and UDP connections, in native SwiftUI
-- <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS
 
 <a href="https://github.com/mahatab/tcpview-macos">
   <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/tcpviewmac.png" alt="TCPView for macOS showing live network connections" width="600" />
 </a>
+
+- <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS
+
+<p>
+  <a href="https://github.com/mahatab/memorylens"><img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/memorylens1.png" alt="MemoryLens System Memory view, breaking down 16 GB of RAM by type" width="49%" /></a>
+  <a href="https://github.com/mahatab/memorylens"><img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/memorylens3.png" alt="MemoryLens Memory Timeline, a live stacked chart of memory composition" width="49%" /></a>
+</p>
 
 ### Windows muscle memory on macOS
 
