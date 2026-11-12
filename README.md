@@ -27,10 +27,9 @@ Several AI models debate your question, and a master model delivers the final ve
   <img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/docs/images/pixel-art-flowchart.jpg" alt="How Synode works: you ask a question, a council of AI models discusses it, and a master model delivers the verdict" width="600" />
 </a>
 
-<p>
-  <a href="https://github.com/mahatab/synode-council-of-ai-agents"><img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/docs/images/screenshots/hero-3.png" alt="Synode council session ending in the master model's final verdict" width="49%" /></a>
-  <a href="https://github.com/mahatab/synode-council-of-ai-agents"><img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/docs/images/screenshots/direct-chat.png" alt="Synode Direct Chat, with a grid of models to pick from" width="49%" /></a>
-</p>
+<a href="https://github.com/mahatab/synode-council-of-ai-agents">
+  <img src="assets/synode-slides.svg" alt="Synode screenshots: a council session ending in the final verdict, Direct Chat, local models through LM Studio, and the Telegram bot" width="100%" />
+</a>
 
 ### <img src="https://themorningdispatch.net/icons/apple-touch-icon.png" width="32" align="top" alt="" /> [The Morning Dispatch](https://themorningdispatch.net) — a daily paper with no humans in the newsroom
 
