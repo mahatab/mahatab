@@ -1,6 +1,6 @@
 # Hi, I am Mahatab 👋
 
-**I build software at [M² Labs](https://m2labs.io): desktop, mobile and web apps, and the AI agent systems behind them. Based in Greater Seattle.**
+**I build software at [M² Labs](https://m2labs.io): desktop, mobile and web apps, and the AI agent systems behind them. Based in the Greater Seattle area.**
 
 > Microsoft gave me 17+ years of scars and instincts. AI gave me wings. Let us ship something.
 
