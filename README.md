@@ -47,13 +47,13 @@ After two decades on Windows, I missed a few things on macOS. So I built them.
 Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 
 - <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun/assets/run_icon.png" width="20" align="top" alt="" /> **[macrun](https://github.com/mahatab/macrun)** — the Win+R Run dialog as a menu bar app, with 105+ command aliases
-- **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab
+- <img src="https://raw.githubusercontent.com/mahatab/wincmdbridge/main/images/cmdmap.png" height="20" align="top" alt="" /> **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab
 
 ### Also
 
 - <img src="assets/magic-mend.png" width="20" align="top" alt="" /> **Magic Mend** — an AI app that fixes your writing in any app. Closed source. &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
-- **BeenHere** — an iOS app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> iOS
-- **[M² Labs](https://m2labs.io)** — my technology studio. Software development meets AI audio production.
+- <img src="assets/beenhere.png" width="20" align="top" alt="" /> **BeenHere** — an iOS app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> iOS
+- <img src="assets/m2labs.svg" width="20" align="top" alt="" /> **[M² Labs](https://m2labs.io)** — my technology studio. Software development meets AI audio production.
 
 ## Recognition
 
