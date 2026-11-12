@@ -24,11 +24,7 @@ Several AI models debate your question, and a master model delivers the final ve
 <img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
 
 <a href="https://github.com/mahatab/synode-council-of-ai-agents">
-  <img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/docs/images/pixel-art-flowchart.jpg" alt="How Synode works: you ask a question, a council of AI models discusses it, and a master model delivers the verdict" width="600" />
-</a>
-
-<a href="https://github.com/mahatab/synode-council-of-ai-agents">
-  <img src="assets/synode-slides.svg" alt="Synode screenshots: council sessions ending in a final verdict, Direct Chat, model and advanced settings, local models through LM Studio, and the Telegram bot" width="100%" />
+  <img src="assets/synode-slides.svg" alt="Synode slideshow: how the council works, then screenshots of council sessions, Direct Chat, settings, local models and the Telegram bot" width="600" />
 </a>
 
 ### <img src="https://themorningdispatch.net/icons/apple-touch-icon.png" width="32" align="top" alt="" /> [The Morning Dispatch](https://themorningdispatch.net) — a daily paper with no humans in the newsroom
@@ -53,7 +49,7 @@ After two decades on Windows, I missed a few things on macOS. So I built them.
 - <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS
 
 <a href="https://github.com/mahatab/memorylens">
-  <img src="assets/memorylens-slides.svg" alt="MemoryLens screenshots: system memory, virtual memory, timeline, process memory, mapped files, snapshot compare and memory flush" width="100%" />
+  <img src="assets/memorylens-slides.svg" alt="MemoryLens screenshots: system memory, virtual memory, timeline, process memory, mapped files, snapshot compare and memory flush" width="600" />
 </a>
 
 ### Windows muscle memory on macOS
