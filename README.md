@@ -1,4 +1,4 @@
-# Hi, I am Mahatab ☕
+# Hi, I am Mahatab 👋
 
 **I build software at [M² Labs](https://m2labs.io): desktop, mobile and web apps, and the AI agent systems behind them. Based in the Greater Seattle area.**
 
