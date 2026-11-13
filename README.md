@@ -2,8 +2,6 @@
 
 **Founder of [M² Labs](https://m2labs.io). I build software for desktop, mobile and web, and the AI agent systems behind it. Based in the Greater Seattle area.**
 
-> Microsoft gave me 17+ years of scars and instincts. AI gave me wings. Let us ship something.
-
 ## 17+ years at Microsoft
 
 Almost a decade of it on **Azure App Service**, the platform behind more than 2 million apps and sites and 60 billion requests a day.
