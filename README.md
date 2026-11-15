@@ -35,7 +35,6 @@ A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI
 
 ### <img src="https://raw.githubusercontent.com/mahatab/codexbar.Net/main/docs/images/logo.png" width="32" align="top" alt="" /> [CodexBar.Net](https://github.com/mahatab/codexbar.Net) — your AI coding limits, one glance from the Windows tray
 
-[![Stars](https://img.shields.io/github/stars/mahatab/codexbar.Net?style=flat&color=A33B2E)](https://github.com/mahatab/codexbar.Net/stargazers)
 [![Download](https://img.shields.io/github/v/release/mahatab/codexbar.Net?label=download&color=1C1B19)](https://github.com/mahatab/codexbar.Net/releases/latest)
 
 A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gemini, Copilot, Grok and OpenRouter limits you have used, when each one resets, and whether you will run out first. Its outage hub also watches Azure, AWS, Google Cloud, Microsoft 365, Cloudflare and GitHub. A C#/.NET rewrite of the core of [CodexBar](https://github.com/steipete/CodexBar), the macOS menu bar app by Peter Steinberger.
