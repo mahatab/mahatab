@@ -37,12 +37,12 @@ A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI
 
 [![Download](https://img.shields.io/github/v/release/mahatab/codexbar.Net?label=download&color=1C1B19)](https://github.com/mahatab/codexbar.Net/releases/latest)
 
-A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gemini, Copilot, Grok and OpenRouter limits you have used, when each one resets, and whether you will run out first. Its outage hub also watches Azure, AWS, Google Cloud, Microsoft 365, Cloudflare and GitHub. A C#/.NET rewrite of the core of [CodexBar](https://github.com/steipete/CodexBar), the macOS menu bar app by Peter Steinberger.
+A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gemini, Copilot, Grok and OpenRouter limits you have used, when each one resets, and whether you will run out first. Its outage hub also watches Azure, AWS, Google Cloud, Microsoft 365, Cloudflare and GitHub, and a Usage & Spend window prices your Codex and Claude Code usage by day, model and project. A partial C#/.NET port of [CodexBar](https://github.com/steipete/CodexBar), the macOS menu bar app by Peter Steinberger: 7 of its roughly 110 providers so far.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
 
 <a href="https://github.com/mahatab/codexbar.Net">
-  <img src="assets/codexbar-slides.svg" alt="CodexBar.Net slideshow: provider cards in dark and light, the outage hub, settings and the tray meter" width="600" />
+  <img src="assets/codexbar-slides.svg" alt="CodexBar.Net slideshow: provider cards in dark and light, the outage hub, the Usage and Spend window, settings and the tray meter" width="600" />
 </a>
 
 ### Windows power tools, rebuilt for the Mac
