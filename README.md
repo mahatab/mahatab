@@ -82,7 +82,7 @@ Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 ## Recognition
 
 - **Microsoft Award for Customer and Partner Experience** — three-time recipient, for enterprise support and customer advocacy
-- **Frost and Sullivan Excellence in Technology Award** — for the SIP engine I developed for the BroadWorks Communicator softphone
+- **Frost and Sullivan Excellence in Technology Award** — won by the BroadWorks Communicator softphone. I developed its SIP engine
 
 ## Random facts
 
