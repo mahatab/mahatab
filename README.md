@@ -82,7 +82,7 @@ Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 ## Recognition
 
 - **Microsoft Award for Customer and Partner Experience** — three-time recipient, for enterprise support and customer advocacy
-- **Frost and Sullivan Excellence in Technology Award** — won by the BroadWorks Communicator softphone. I developed its SIP ([RFC 2543](https://www.rfc-editor.org/rfc/rfc2543)) engine
+- **Frost and Sullivan Excellence in Technology Award** — won by the BroadWorks Communicator softphone. I developed its [SIP](https://www.rfc-editor.org/rfc/rfc2543 "RFC 2543: Session Initiation Protocol") engine
 
 ## Random facts
 
