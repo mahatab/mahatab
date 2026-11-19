@@ -15,11 +15,9 @@ Almost a decade of it on **Azure App Service**, the platform behind more than 2 
 ### <img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/src-tauri/icons/128x128.png" width="32" align="top" alt="" /> [Synode](https://github.com/mahatab/synode-council-of-ai-agents) — a council of AI models, one verdict
 
 [![Stars](https://img.shields.io/github/stars/mahatab/synode-council-of-ai-agents?style=flat&color=A33B2E)](https://github.com/mahatab/synode-council-of-ai-agents/stargazers)
-[![Download](https://img.shields.io/github/v/release/mahatab/synode-council-of-ai-agents?label=download&color=1C1B19)](https://github.com/mahatab/synode-council-of-ai-agents/releases/latest)
+[![Download](https://img.shields.io/github/v/release/mahatab/synode-council-of-ai-agents?label=download&color=1C1B19)](https://github.com/mahatab/synode-council-of-ai-agents/releases/latest) &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
 
 Several AI models debate your question, and a master model delivers the final verdict. Follow up with any model by @mention. Works with 8 cloud providers and local models.
-
-<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
 
 <a href="https://github.com/mahatab/synode-council-of-ai-agents">
   <img src="assets/synode-slides.svg" alt="Synode slideshow: how the council works, then screenshots of council sessions, Direct Chat, settings, local models and the Telegram bot" width="600" />
@@ -35,11 +33,9 @@ A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI
 
 ### <img src="https://raw.githubusercontent.com/mahatab/codexbar.Net/main/docs/images/logo.png" width="32" align="top" alt="" /> [CodexBar.Net](https://github.com/mahatab/codexbar.Net) — your AI coding limits, one glance from the Windows tray
 
-[![Download](https://img.shields.io/github/v/release/mahatab/codexbar.Net?label=download&color=1C1B19)](https://github.com/mahatab/codexbar.Net/releases/latest)
+[![Download](https://img.shields.io/github/v/release/mahatab/codexbar.Net?label=download&color=1C1B19)](https://github.com/mahatab/codexbar.Net/releases/latest) &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
 
 A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gemini, Copilot, Grok and OpenRouter limits you have used, when each one resets, and whether you will run out first. Its outage hub also watches Azure, AWS, Google Cloud, Microsoft 365, Cloudflare and GitHub, and a Usage & Spend window prices your Codex and Claude Code usage by day, model and project. A partial C#/.NET port of [CodexBar](https://github.com/steipete/CodexBar), the macOS menu bar app by Peter Steinberger: 7 of its roughly 110 providers so far.
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
 
 <a href="https://github.com/mahatab/codexbar.Net">
   <img src="assets/codexbar-slides.svg" alt="CodexBar.Net slideshow: provider cards in dark and light, the outage hub, the Usage and Spend window, settings and the tray meter" width="600" />
