@@ -71,14 +71,14 @@ Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 
 ### Also
 
-- <img src="assets/magic-mend.png" width="20" align="top" alt="" /> **Magic Mend** — an AI app that fixes your writing in any app. Closed source. &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
+- <img src="assets/magic-mend.png" width="20" align="top" alt="" /> **Magic Mend** — an AI app that fixes your writing in any app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
 - <img src="assets/beenhere.png" width="20" align="top" alt="" /> **BeenHere** — an iOS app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> iOS
 - <img src="assets/m2labs.png" width="20" align="top" alt="" /> **[M² Labs](https://m2labs.io)** — my technology studio. Software development meets AI audio production.
 
 ## Recognition
 
 - **Microsoft Award for Customer and Partner Experience** — three-time recipient, for enterprise support and customer advocacy
-- **Frost and Sullivan Excellence in Technology Award** — won by the BroadWorks Communicator softphone. I developed its [SIP](https://www.rfc-editor.org/rfc/rfc2543 "RFC 2543: Session Initiation Protocol") engine
+- **Frost & Sullivan Excellence in Technology Award** — won by the BroadWorks Communicator softphone. I developed its [SIP](https://www.rfc-editor.org/rfc/rfc2543 "RFC 2543: Session Initiation Protocol") engine
 
 ## Random facts
 
