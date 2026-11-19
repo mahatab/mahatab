@@ -49,13 +49,13 @@ A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gem
 
 After two decades on Windows, I missed a few things on macOS. So I built them.
 
-- <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/TCPViewMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="20" align="top" alt="" /> **[tcpview-macos](https://github.com/mahatab/tcpview-macos)** — Sysinternals TCPView for the Mac: live TCP and UDP connections, in native SwiftUI
+- <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/TCPViewMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="20" align="top" alt="" /> **[tcpview-macos](https://github.com/mahatab/tcpview-macos)** — Sysinternals TCPView for the Mac: live TCP and UDP connections, in native SwiftUI. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
 
 <a href="https://github.com/mahatab/tcpview-macos">
   <img src="assets/tcpview-frame.svg" alt="TCPView for macOS showing every live TCP and UDP connection, by process" width="600" />
 </a>
 
-- <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS
+- <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
 
 <a href="https://github.com/mahatab/memorylens">
   <img src="assets/memorylens-slides.svg" alt="MemoryLens screenshots: system memory, virtual memory, timeline, process memory, mapped files, snapshot compare and memory flush" width="600" />
@@ -65,13 +65,13 @@ After two decades on Windows, I missed a few things on macOS. So I built them.
 
 Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 
-- <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun/assets/run_icon.png" width="20" align="top" alt="" /> **[macrun](https://github.com/mahatab/macrun)** — the Win+R Run dialog as a menu bar app, with 105+ command aliases
+- <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun/assets/run_icon.png" width="20" align="top" alt="" /> **[macrun](https://github.com/mahatab/macrun)** — the Win+R Run dialog as a menu bar app, with 105+ command aliases. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
 
 <a href="https://github.com/mahatab/macrun">
   <img src="assets/macrun-frame.svg" alt="MacRun, a Windows-style Run dialog on macOS" width="600" />
 </a>
 
-- <img src="https://raw.githubusercontent.com/mahatab/wincmdbridge/main/images/cmdmap.png" height="20" align="top" alt="" /> **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab
+- <img src="https://raw.githubusercontent.com/mahatab/wincmdbridge/main/images/cmdmap.png" height="20" align="top" alt="" /> **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
 
 ### Also
 
