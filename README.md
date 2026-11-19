@@ -16,8 +16,8 @@ Almost a decade of it on **Azure App Service**, the platform behind more than 2 
 
 [![Stars](https://img.shields.io/github/stars/mahatab/synode-council-of-ai-agents?style=flat&color=A33B2E)](https://github.com/mahatab/synode-council-of-ai-agents/stargazers)
 [![Download](https://img.shields.io/github/v/release/mahatab/synode-council-of-ai-agents?label=download&color=1C1B19)](https://github.com/mahatab/synode-council-of-ai-agents/releases/latest)
-![macOS](https://img.shields.io/badge/macOS-555?logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-555?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS40djExLjRIMHpNMTIuNiAwSDI0djExLjRIMTIuNnpNMCAxMi42aDExLjRWMjRIMHpNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8%2BPC9zdmc%2B)
+<img src="https://cdn.simpleicons.org/apple/8b949e" height="18" alt="macOS" title="macOS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="18" alt="Windows" title="Windows" />
 
 Several AI models debate your question, and a master model delivers the final verdict. Follow up with any model by @mention. Works with 8 cloud providers and local models.
 
@@ -36,7 +36,7 @@ A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI
 ### <img src="https://raw.githubusercontent.com/mahatab/codexbar.Net/main/docs/images/logo.png" width="32" align="top" alt="" /> [CodexBar.Net](https://github.com/mahatab/codexbar.Net) — your AI coding limits, one glance from the Windows tray
 
 [![Download](https://img.shields.io/github/v/release/mahatab/codexbar.Net?label=download&color=1C1B19)](https://github.com/mahatab/codexbar.Net/releases/latest)
-![Windows](https://img.shields.io/badge/Windows-555?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMS40djExLjRIMHpNMTIuNiAwSDI0djExLjRIMTIuNnpNMCAxMi42aDExLjRWMjRIMHpNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8%2BPC9zdmc%2B)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="18" alt="Windows" title="Windows" />
 
 A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gemini, Copilot, Grok and OpenRouter limits you have used, when each one resets, and whether you will run out first. Its outage hub also watches Azure, AWS, Google Cloud, Microsoft 365, Cloudflare and GitHub, and a Usage & Spend window prices your Codex and Claude Code usage by day, model and project. A partial C#/.NET port of [CodexBar](https://github.com/steipete/CodexBar), the macOS menu bar app by Peter Steinberger: 7 of its roughly 110 providers so far.
 
@@ -48,13 +48,13 @@ A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gem
 
 After two decades on Windows, I missed a few things on macOS. So I built them.
 
-- <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/TCPViewMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="20" align="top" alt="" /> **[tcpview-macos](https://github.com/mahatab/tcpview-macos)** — Sysinternals TCPView for the Mac: live TCP and UDP connections, in native SwiftUI. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
+- <img src="https://raw.githubusercontent.com/mahatab/tcpview-macos/main/TCPViewMac/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="20" align="top" alt="" /> **[tcpview-macos](https://github.com/mahatab/tcpview-macos)** — Sysinternals TCPView for the Mac: live TCP and UDP connections, in native SwiftUI. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="macOS" title="macOS" />
 
 <a href="https://github.com/mahatab/tcpview-macos">
   <img src="assets/tcpview-frame.svg" alt="TCPView for macOS showing every live TCP and UDP connection, by process" width="600" />
 </a>
 
-- <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
+- <img src="https://raw.githubusercontent.com/mahatab/memorylens/main/images/app-icon.png" width="20" align="top" alt="" /> **[memorylens](https://github.com/mahatab/memorylens)** — memory visualization for macOS. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="macOS" title="macOS" />
 
 <a href="https://github.com/mahatab/memorylens">
   <img src="assets/memorylens-slides.svg" alt="MemoryLens screenshots: system memory, virtual memory, timeline, process memory, mapped files, snapshot compare and memory flush" width="600" />
@@ -64,18 +64,18 @@ After two decades on Windows, I missed a few things on macOS. So I built them.
 
 Small helpers for anyone who moved from Windows to the Mac and kept the habits.
 
-- <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun/assets/run_icon.png" width="20" align="top" alt="" /> **[macrun](https://github.com/mahatab/macrun)** — the Win+R Run dialog as a menu bar app, with 105+ command aliases. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
+- <img src="https://raw.githubusercontent.com/mahatab/macrun/main/macrun/assets/run_icon.png" width="20" align="top" alt="" /> **[macrun](https://github.com/mahatab/macrun)** — the Win+R Run dialog as a menu bar app, with 105+ command aliases. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="macOS" title="macOS" />
 
 <a href="https://github.com/mahatab/macrun">
   <img src="assets/macrun-frame.svg" alt="MacRun, a Windows-style Run dialog on macOS" width="600" />
 </a>
 
-- <img src="https://raw.githubusercontent.com/mahatab/wincmdbridge/main/images/cmdmap.png" height="20" align="top" alt="" /> **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS
+- <img src="https://raw.githubusercontent.com/mahatab/wincmdbridge/main/images/cmdmap.png" height="20" align="top" alt="" /> **[wincmdbridge](https://github.com/mahatab/wincmdbridge)** — a Zsh plugin that turns Windows CMD commands into Unix ones on Tab. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="macOS" title="macOS" />
 
 ### Also
 
-- <img src="assets/magic-mend.png" width="20" align="top" alt="" /> **Magic Mend** — an AI app that fixes your writing in any app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> macOS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="" /> Windows
-- <img src="assets/beenhere.png" width="20" align="top" alt="" /> **BeenHere** — an iOS app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="" /> iOS
+- <img src="assets/magic-mend.png" width="20" align="top" alt="" /> **Magic Mend** — an AI app that fixes your writing in any app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="macOS" title="macOS" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="14" alt="Windows" title="Windows" />
+- <img src="assets/beenhere.png" width="20" align="top" alt="" /> **BeenHere** — an iOS app. Closed source. &nbsp;<img src="https://cdn.simpleicons.org/apple/8b949e" height="14" alt="iOS" title="iOS" />
 - <img src="assets/m2labs.png" width="20" align="top" alt="" /> **[M² Labs](https://m2labs.io)** — my technology studio. Software development meets AI audio production.
 
 ## Recognition
