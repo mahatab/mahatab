@@ -15,7 +15,7 @@ Almost a decade of it on **Azure App Service**, the platform behind more than 2 
 ### <img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/src-tauri/icons/128x128.png" width="32" align="top" alt="" /> [Synode](https://github.com/mahatab/synode-council-of-ai-agents) — a council of AI models, one verdict
 
 [![Stars](https://img.shields.io/github/stars/mahatab/synode-council-of-ai-agents?style=flat&color=A33B2E)](https://github.com/mahatab/synode-council-of-ai-agents/stargazers)
-[![Download](https://img.shields.io/github/v/release/mahatab/synode-council-of-ai-agents?label=download&color=1C1B19)](https://github.com/mahatab/synode-council-of-ai-agents/releases/latest)
+[![Download](assets/badge-download.svg)](https://github.com/mahatab/synode-council-of-ai-agents/releases/latest)
 <img src="assets/platform-macos.svg" height="20" alt="macOS" title="macOS" />
 <img src="assets/platform-windows.svg" height="20" alt="Windows" title="Windows" />
 
@@ -35,7 +35,7 @@ A 1970s-style newspaper written every morning by AI scouts, AI writers and an AI
 
 ### <img src="https://raw.githubusercontent.com/mahatab/codexbar.Net/main/docs/images/logo.png" width="32" align="top" alt="" /> [CodexBar.Net](https://github.com/mahatab/codexbar.Net) — your AI coding limits, one glance from the Windows tray
 
-[![Download](https://img.shields.io/github/v/release/mahatab/codexbar.Net?label=download&color=1C1B19)](https://github.com/mahatab/codexbar.Net/releases/latest)
+[![Download](assets/badge-download.svg)](https://github.com/mahatab/codexbar.Net/releases/latest)
 <img src="assets/platform-windows.svg" height="20" alt="Windows" title="Windows" />
 
 A native Windows tray app that shows how much of your Codex, Claude, Cursor, Gemini, Copilot, Grok and OpenRouter limits you have used, when each one resets, and whether you will run out first. Its outage hub also watches Azure, AWS, Google Cloud, Microsoft 365, Cloudflare and GitHub, and a Usage & Spend window prices your Codex and Claude Code usage by day, model and project. A partial C#/.NET port of [CodexBar](https://github.com/steipete/CodexBar), the macOS menu bar app by Peter Steinberger: 7 of its roughly 110 providers so far.
