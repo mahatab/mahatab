@@ -14,7 +14,6 @@ Almost a decade of it on **Azure App Service**, the platform behind more than 2 
 
 ### <img src="https://raw.githubusercontent.com/mahatab/synode-council-of-ai-agents/main/src-tauri/icons/128x128.png" width="32" align="top" alt="" /> [Synode](https://github.com/mahatab/synode-council-of-ai-agents) — a council of AI models, one verdict
 
-[![Stars](https://img.shields.io/github/stars/mahatab/synode-council-of-ai-agents?style=flat&color=A33B2E)](https://github.com/mahatab/synode-council-of-ai-agents/stargazers)
 [![Download](assets/badge-download.svg)](https://github.com/mahatab/synode-council-of-ai-agents/releases/latest)
 <img src="assets/platform-macos.svg" height="20" alt="macOS" title="macOS" />
 <img src="assets/platform-windows.svg" height="20" alt="Windows" title="Windows" />
